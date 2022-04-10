@@ -141,3 +141,12 @@ arch/arm64/boot/dts/vendor/
 
 # Tech package directories
 #techpack/
+AnyKernel3/
+Cache/
+Network Persistent State
+Session Storage/
+build.sh
+clang-llvm/
+error.log
+out/
+
